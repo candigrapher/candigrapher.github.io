@@ -41,13 +41,6 @@
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
   Link: </app-c14d22794d473100f54b.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-e2dfe37240c88373a136.js>; rel=preload; as=script
-/candid/
-  Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
-  Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
-  Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
-  Link: </app-c14d22794d473100f54b.js>; rel=preload; as=script
-  Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-012a6b99de1ee272cb62.js>; rel=preload; as=script
 /reception/
   Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
   Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
@@ -76,13 +69,13 @@
   Link: </app-c14d22794d473100f54b.js>; rel=preload; as=script
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-012a6b99de1ee272cb62.js>; rel=preload; as=script
-/tags/candid/
+/candid/
   Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
   Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
   Link: </app-c14d22794d473100f54b.js>; rel=preload; as=script
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
-  Link: </component---src-templates-tag-page-js-34dcb0a055d5fc001ff6.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-012a6b99de1ee272cb62.js>; rel=preload; as=script
 /tags/reception/
   Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
   Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
@@ -98,6 +91,13 @@
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
   Link: </component---src-templates-tag-page-js-34dcb0a055d5fc001ff6.js>; rel=preload; as=script
 /tags/traditional/
+  Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
+  Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
+  Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
+  Link: </app-c14d22794d473100f54b.js>; rel=preload; as=script
+  Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-page-js-34dcb0a055d5fc001ff6.js>; rel=preload; as=script
+/tags/candid/
   Link: </webpack-runtime-a8fc3d8ac2a945197e59.js>; rel=preload; as=script
   Link: </styles-e339b62c625c6f70814b.js>; rel=preload; as=script
   Link: </commons-0f2d5ced4ba9f7e558a7.js>; rel=preload; as=script

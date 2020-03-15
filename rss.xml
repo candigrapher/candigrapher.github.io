@@ -1,159 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Aravind Photography]]></title><description><![CDATA[We Create Memories]]></description><link>https://candigrapher.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Mar 2020 10:08:03 GMT</lastBuildDate><item><title><![CDATA[Candid]]></title><link>https://candigrapher.com/candid/</link><guid isPermaLink="false">https://candigrapher.com/candid/</guid><pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b66acfcad63dc9325bb2778758a73edf/558bf/DSC_1360.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 64.61486713757148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/9oADAMBAAIQAxAAAAFSkhSFEDIsf//EABkQAAMBAQEAAAAAAAAAAAAAAAECAxESBP/aAAgBAQABBQKSgU3p6OqP522gA7qyrT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8BrD//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESUf/aAAgBAgEBPwGdLM//xAAaEAADAQADAAAAAAAAAAAAAAAAARESAiFR/9oACAEBAAY/AujHg00WGh3hT//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFRMUFx/9oACAEBAAE/IaisalSVS1dfIHbpOFZggD2s/9oADAMBAAIAAwAAABCv3//EABgRAAIDAAAAAAAAAAAAAAAAAAARATFR/9oACAEDAQE/EGqBcP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBJDC//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMUFhkf/aAAgBAQABPxASnj0aSd37k5MFI8r7wIA0S+NZwRy9TLZBEQ85BAbTd//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/b66acfcad63dc9325bb2778758a73edf/53e9f/DSC_1360.webp 340w,
-/static/b66acfcad63dc9325bb2778758a73edf/0991f/DSC_1360.webp 680w,
-/static/b66acfcad63dc9325bb2778758a73edf/9d77c/DSC_1360.webp 1360w,
-/static/b66acfcad63dc9325bb2778758a73edf/27063/DSC_1360.webp 2040w,
-/static/b66acfcad63dc9325bb2778758a73edf/82c87/DSC_1360.webp 2720w,
-/static/b66acfcad63dc9325bb2778758a73edf/5c4fd/DSC_1360.webp 5946w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/b66acfcad63dc9325bb2778758a73edf/a0703/DSC_1360.jpg 340w,
-/static/b66acfcad63dc9325bb2778758a73edf/5041d/DSC_1360.jpg 680w,
-/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg 1360w,
-/static/b66acfcad63dc9325bb2778758a73edf/25fce/DSC_1360.jpg 2040w,
-/static/b66acfcad63dc9325bb2778758a73edf/9bc5d/DSC_1360.jpg 2720w,
-/static/b66acfcad63dc9325bb2778758a73edf/558bf/DSC_1360.jpg 5946w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg&quot;
-          alt=&quot;DSC 1360&quot;
-          title=&quot;&quot;
-          src=&quot;/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/d112f/DSC_4155.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 70.4563492063492%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABEle2XnpdP//EABgQAQEBAQEAAAAAAAAAAAAAAAIBAwAU/9oACAEBAAEFAvNolpNM81XaHOVDjxhX/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAARAjESIkH/2gAIAQEABj8CMaRbOilFmtH/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhMZFBUYH/2gAIAQEAAT8hBwgAPhwJF9zzDEt6lorabEUUMl3P/9oADAMBAAIAAwAAABALD//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBQVH//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIUH/2gAIAQIBAT8Q2q//xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhMUFRgf/aAAgBAQABPxCmcVXLkiZWAPXnuISoNg9YkAUdyMMCgg9H3HqaIN0z/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/53e9f/DSC_4155.webp 340w,
-/static/4330e849aea7a45a0fb8e124e98d4189/0991f/DSC_4155.webp 680w,
-/static/4330e849aea7a45a0fb8e124e98d4189/9d77c/DSC_4155.webp 1360w,
-/static/4330e849aea7a45a0fb8e124e98d4189/27063/DSC_4155.webp 2040w,
-/static/4330e849aea7a45a0fb8e124e98d4189/82c87/DSC_4155.webp 2720w,
-/static/4330e849aea7a45a0fb8e124e98d4189/aca9a/DSC_4155.webp 5040w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/a0703/DSC_4155.jpg 340w,
-/static/4330e849aea7a45a0fb8e124e98d4189/5041d/DSC_4155.jpg 680w,
-/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg 1360w,
-/static/4330e849aea7a45a0fb8e124e98d4189/25fce/DSC_4155.jpg 2040w,
-/static/4330e849aea7a45a0fb8e124e98d4189/9bc5d/DSC_4155.jpg 2720w,
-/static/4330e849aea7a45a0fb8e124e98d4189/d112f/DSC_4155.jpg 5040w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg&quot;
-          alt=&quot;DSC 4155&quot;
-          title=&quot;&quot;
-          src=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/c83a6/DSC_4753-01.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 61.09583660644148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABUBAQEAAAAAAAAAAAAAAAAAAAMB/9oADAMBAAIQAxAAAAGNloa6KU//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIREkH/2gAIAQEAAQUCUVS6wW0eXKly8P/EABgRAAIDAAAAAAAAAAAAAAAAAAECEBIx/9oACAEDAQE/ASldj//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAIAQIBAT8BeqU//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERECESMVH/2gAIAQEABj8CfHuijutlTGvSY//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8h3bVt3yC2AdGK4FfGB0OqZRZlBECHs//aAAwDAQACAAMAAAAQUD//xAAXEQEBAQEAAAAAAAAAAAAAAAARIQAB/9oACAEDAQE/EElTdGb/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBEpP8A/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBUWHR/9oACAEBAAE/EAJtJciOufOaYKVsG95TO3UDHkI0kKK/MEDUxeWu77xMiD6M/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/53e9f/DSC_4753-01.webp 340w,
-/static/7bba2e79d9f530c16a7aae79055f3864/0991f/DSC_4753-01.webp 680w,
-/static/7bba2e79d9f530c16a7aae79055f3864/9d77c/DSC_4753-01.webp 1360w,
-/static/7bba2e79d9f530c16a7aae79055f3864/27063/DSC_4753-01.webp 2040w,
-/static/7bba2e79d9f530c16a7aae79055f3864/82c87/DSC_4753-01.webp 2720w,
-/static/7bba2e79d9f530c16a7aae79055f3864/1183c/DSC_4753-01.webp 5092w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/a0703/DSC_4753-01.jpg 340w,
-/static/7bba2e79d9f530c16a7aae79055f3864/5041d/DSC_4753-01.jpg 680w,
-/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg 1360w,
-/static/7bba2e79d9f530c16a7aae79055f3864/25fce/DSC_4753-01.jpg 2040w,
-/static/7bba2e79d9f530c16a7aae79055f3864/9bc5d/DSC_4753-01.jpg 2720w,
-/static/7bba2e79d9f530c16a7aae79055f3864/c83a6/DSC_4753-01.jpg 5092w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg&quot;
-          alt=&quot;DSC 4753 01&quot;
-          title=&quot;&quot;
-          src=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Reception]]></title><link>https://candigrapher.com/reception/</link><guid isPermaLink="false">https://candigrapher.com/reception/</guid><pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Aravind Photography]]></title><description><![CDATA[We Create Memories]]></description><link>https://candigrapher.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Mar 2020 10:17:26 GMT</lastBuildDate><item><title><![CDATA[Reception]]></title><link>https://candigrapher.com/reception/</link><guid isPermaLink="false">https://candigrapher.com/reception/</guid><pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/f832d66f45a8cd8f3ffbc5479a1d0597/1a595/DSC_3396-01.jpg&quot;
@@ -1339,6 +1184,161 @@
           alt=&quot;DSC 4782 01&quot;
           title=&quot;&quot;
           src=&quot;/static/9441c08c775cbdefc3d81cea6cebdfb6/fe1b8/DSC_4782-01.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Candid]]></title><link>https://candigrapher.com/candid/</link><guid isPermaLink="false">https://candigrapher.com/candid/</guid><pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b66acfcad63dc9325bb2778758a73edf/558bf/DSC_1360.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.61486713757148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/9oADAMBAAIQAxAAAAFSkhSFEDIsf//EABkQAAMBAQEAAAAAAAAAAAAAAAECAxESBP/aAAgBAQABBQKSgU3p6OqP522gA7qyrT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8BrD//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESUf/aAAgBAgEBPwGdLM//xAAaEAADAQADAAAAAAAAAAAAAAAAARESAiFR/9oACAEBAAY/AujHg00WGh3hT//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFRMUFx/9oACAEBAAE/IaisalSVS1dfIHbpOFZggD2s/9oADAMBAAIAAwAAABCv3//EABgRAAIDAAAAAAAAAAAAAAAAAAARATFR/9oACAEDAQE/EGqBcP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBJDC//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMUFhkf/aAAgBAQABPxASnj0aSd37k5MFI8r7wIA0S+NZwRy9TLZBEQ85BAbTd//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b66acfcad63dc9325bb2778758a73edf/53e9f/DSC_1360.webp 340w,
+/static/b66acfcad63dc9325bb2778758a73edf/0991f/DSC_1360.webp 680w,
+/static/b66acfcad63dc9325bb2778758a73edf/9d77c/DSC_1360.webp 1360w,
+/static/b66acfcad63dc9325bb2778758a73edf/27063/DSC_1360.webp 2040w,
+/static/b66acfcad63dc9325bb2778758a73edf/82c87/DSC_1360.webp 2720w,
+/static/b66acfcad63dc9325bb2778758a73edf/5c4fd/DSC_1360.webp 5946w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b66acfcad63dc9325bb2778758a73edf/a0703/DSC_1360.jpg 340w,
+/static/b66acfcad63dc9325bb2778758a73edf/5041d/DSC_1360.jpg 680w,
+/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg 1360w,
+/static/b66acfcad63dc9325bb2778758a73edf/25fce/DSC_1360.jpg 2040w,
+/static/b66acfcad63dc9325bb2778758a73edf/9bc5d/DSC_1360.jpg 2720w,
+/static/b66acfcad63dc9325bb2778758a73edf/558bf/DSC_1360.jpg 5946w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg&quot;
+          alt=&quot;DSC 1360&quot;
+          title=&quot;&quot;
+          src=&quot;/static/b66acfcad63dc9325bb2778758a73edf/fe1b8/DSC_1360.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/d112f/DSC_4155.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 70.4563492063492%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABEle2XnpdP//EABgQAQEBAQEAAAAAAAAAAAAAAAIBAwAU/9oACAEBAAEFAvNolpNM81XaHOVDjxhX/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAARAjESIkH/2gAIAQEABj8CMaRbOilFmtH/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhMZFBUYH/2gAIAQEAAT8hBwgAPhwJF9zzDEt6lorabEUUMl3P/9oADAMBAAIAAwAAABALD//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBQVH//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIUH/2gAIAQIBAT8Q2q//xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhMUFRgf/aAAgBAQABPxCmcVXLkiZWAPXnuISoNg9YkAUdyMMCgg9H3HqaIN0z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/53e9f/DSC_4155.webp 340w,
+/static/4330e849aea7a45a0fb8e124e98d4189/0991f/DSC_4155.webp 680w,
+/static/4330e849aea7a45a0fb8e124e98d4189/9d77c/DSC_4155.webp 1360w,
+/static/4330e849aea7a45a0fb8e124e98d4189/27063/DSC_4155.webp 2040w,
+/static/4330e849aea7a45a0fb8e124e98d4189/82c87/DSC_4155.webp 2720w,
+/static/4330e849aea7a45a0fb8e124e98d4189/aca9a/DSC_4155.webp 5040w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/a0703/DSC_4155.jpg 340w,
+/static/4330e849aea7a45a0fb8e124e98d4189/5041d/DSC_4155.jpg 680w,
+/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg 1360w,
+/static/4330e849aea7a45a0fb8e124e98d4189/25fce/DSC_4155.jpg 2040w,
+/static/4330e849aea7a45a0fb8e124e98d4189/9bc5d/DSC_4155.jpg 2720w,
+/static/4330e849aea7a45a0fb8e124e98d4189/d112f/DSC_4155.jpg 5040w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg&quot;
+          alt=&quot;DSC 4155&quot;
+          title=&quot;&quot;
+          src=&quot;/static/4330e849aea7a45a0fb8e124e98d4189/fe1b8/DSC_4155.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/c83a6/DSC_4753-01.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.09583660644148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABUBAQEAAAAAAAAAAAAAAAAAAAMB/9oADAMBAAIQAxAAAAGNloa6KU//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIREkH/2gAIAQEAAQUCUVS6wW0eXKly8P/EABgRAAIDAAAAAAAAAAAAAAAAAAECEBIx/9oACAEDAQE/ASldj//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAIAQIBAT8BeqU//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERECESMVH/2gAIAQEABj8CfHuijutlTGvSY//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8h3bVt3yC2AdGK4FfGB0OqZRZlBECHs//aAAwDAQACAAMAAAAQUD//xAAXEQEBAQEAAAAAAAAAAAAAAAARIQAB/9oACAEDAQE/EElTdGb/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBEpP8A/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBUWHR/9oACAEBAAE/EAJtJciOufOaYKVsG95TO3UDHkI0kKK/MEDUxeWu77xMiD6M/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/53e9f/DSC_4753-01.webp 340w,
+/static/7bba2e79d9f530c16a7aae79055f3864/0991f/DSC_4753-01.webp 680w,
+/static/7bba2e79d9f530c16a7aae79055f3864/9d77c/DSC_4753-01.webp 1360w,
+/static/7bba2e79d9f530c16a7aae79055f3864/27063/DSC_4753-01.webp 2040w,
+/static/7bba2e79d9f530c16a7aae79055f3864/82c87/DSC_4753-01.webp 2720w,
+/static/7bba2e79d9f530c16a7aae79055f3864/1183c/DSC_4753-01.webp 5092w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/a0703/DSC_4753-01.jpg 340w,
+/static/7bba2e79d9f530c16a7aae79055f3864/5041d/DSC_4753-01.jpg 680w,
+/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg 1360w,
+/static/7bba2e79d9f530c16a7aae79055f3864/25fce/DSC_4753-01.jpg 2040w,
+/static/7bba2e79d9f530c16a7aae79055f3864/9bc5d/DSC_4753-01.jpg 2720w,
+/static/7bba2e79d9f530c16a7aae79055f3864/c83a6/DSC_4753-01.jpg 5092w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg&quot;
+          alt=&quot;DSC 4753 01&quot;
+          title=&quot;&quot;
+          src=&quot;/static/7bba2e79d9f530c16a7aae79055f3864/fe1b8/DSC_4753-01.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
